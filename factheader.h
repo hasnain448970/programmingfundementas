@@ -1,3 +1,5 @@
+#include<stdio.h>
+#include<headerfile.h>//name of file in which you write the below code
 int fact(int n)
 {
 	int f=1;
@@ -7,3 +9,4 @@ int fact(int n)
 	}
 	return f;
 }
+//now you can call the fact function in your existing language fle
